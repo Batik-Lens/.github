@@ -1,10 +1,14 @@
 # **Hello Everyone!** 
 
-# **👋 Hi, Welcome To Batik Lens **
+# 👋 Hi, Welcome To Batik Lens 
 
+
+
+##
+<hr>
 <html>
   <head>
-    <title><b>Team Of Capstone Project Batik Lens [CH2-PS405]<b></title>
+    <b>Team Of Capstone Project Batik Lens [CH2-PS405]<b>
   </head>
   <body>
     <table border="1px">
