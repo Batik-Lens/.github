@@ -8,6 +8,8 @@
   <head>
     <b>Team Of Capstone Project Batik Lens [CH2-PS405]<b>
   </head>
+      <br>
+      <hr>
   <body>
     <table border="1px">
       <tr>
