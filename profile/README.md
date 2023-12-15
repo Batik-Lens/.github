@@ -6,7 +6,8 @@
 <hr>
 <html>
   <head>
-    <b>Team Of Capstone Project Batik Lens [CH2-PS405]<b>
+#    <b>Team Of Capstone Project Batik Lens [CH2-PS405]<b>
+     <b>BANGKIT ACADEMY 2023<b>
   </head>
       <br>
       <hr>
