@@ -3,8 +3,8 @@
 ![batiklens-logo](https://github.com/Batik-Lens/.github/assets/126142004/319fa364-0219-453e-a168-684e6775cda3)
 
 <p align="center">
-  <a href="https://github.com/Batik-Lens/.github/blob/main/batiklens-logo.png">
-    <img width="150px" src="https://github.com/Batik-Lens/.github/tree/main">
+  <a href="[https://github.com/Batik-Lens/.github/batiklens-logo.png](https://github.com/Batik-Lens/.github/)">
+    <img width="150px" src="https://github.com/Batik-Lens/.github/batiklens-logo.png">
   </a>
 </p>
 
