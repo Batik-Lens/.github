@@ -1,10 +1,10 @@
 <p align="center">
-#👋 Hi There, Welcome To Batik Lens
+<strong>👋 Hi There, Welcome To Batik Lens</strong>
 </p> 
 
 <p align="center">
 <a>
-<img src="https://github.com/Batik-Lens/.github/assets/126142004/319fa364-0219-453e-a168-684e6775cda3">
+<img width="150px" src="https://github.com/Batik-Lens/.github/assets/126142004/319fa364-0219-453e-a168-684e6775cda3">
 </a>
 </p>
 
