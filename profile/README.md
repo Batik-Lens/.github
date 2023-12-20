@@ -23,8 +23,8 @@ The "Batik Lens" application project aims to develop a user-oriented system util
   </head>
       <br>
       <hr>
-  <body align="center">
-    <table border="1px" background-color="red">
+  <body>
+    <table border="1px" align="center">
       <tr>
         <th>ID</th>
         <th>Name</th>
