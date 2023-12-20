@@ -8,7 +8,7 @@
 </a>
 </p>
 
-***
+#
 The "Batik Lens" application project aims to develop a user-oriented system utilizing machine learning to identify Indonesian batik patterns. Recognizing the challenge for the general public, particularly Generation-Z, to distinguish the type and origin of batik, the proposed application employs machine learning algorithms and image processing techniques. Users can capture images with their cameras, allowing the system to analyze and classify batik patterns and motifs. Beyond authentication, the application serves an educational purpose, providing insights into the rich cultural history behind each pattern. The project aims to enhance appreciation and conservation of batik, bridging the disconnection between Generation-Z and the intricate world of batik. By leveraging technology, especially machine learning and image recognition, the project strives to make Indonesian batik more accessible and meaningful across all age groups, with a focus on educating the younger generation.
 
 #
@@ -21,8 +21,8 @@ The "Batik Lens" application project aims to develop a user-oriented system util
   </head>
       <br>
       <hr>
-  <body>
-    <table border="1px" bg-color="dark">
+  <body align="center">
+    <table border="1px" background-color="red">
       <tr>
         <th>ID</th>
         <th>Name</th>
