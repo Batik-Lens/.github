@@ -1,6 +1,6 @@
-<p align="center">
+<h2 align="center">
 <strong>👋 Hi There, Welcome To Batik Lens</strong>
-</p> 
+</h2> 
 
 <p align="center">
 <a>
