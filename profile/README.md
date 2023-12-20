@@ -1,7 +1,11 @@
 # 👋 Hi There, Welcome To Batik Lens 
 
 <html>
+  <head>
+  </head>
+    <body>
 <img width="150px" ![batiklens-logo](https://github.com/Batik-Lens/.github/assets/126142004/319fa364-0219-453e-a168-684e6775cda3)>
+    </body>
 </html>
 
 ***
