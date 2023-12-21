@@ -4,11 +4,9 @@
 
 <p align="center">
 <a>
-<img width="250px" border-radius="50%" src="https://github.com/Batik-Lens/.github/assets/126142004/f23c96a7-4085-40a1-b926-c31765e4ebbb">
+<img width="500px" src="https://github.com/Batik-Lens/.github/assets/126142004/f23c96a7-4085-40a1-b926-c31765e4ebbb">
 </a>
 </p>
-
-![LOGOcomb 2 (3) (1)](https://github.com/Batik-Lens/.github/assets/126142004/f23c96a7-4085-40a1-b926-c31765e4ebbb)
 
 #
 <h3 align="center">
